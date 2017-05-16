@@ -1,5 +1,5 @@
 # mockasim
-##### Creating mock data for simulations and testing.
+##### For creating mock data for simulations and testing.
 
 ### Randomly Generated Canadian Postal Codes
 ---
@@ -22,7 +22,7 @@ However, in the wild, Postal Codes will often not have a space, replace the spac
 The first segment is called the 'forward sortation area' (FSA) and is used to identify the geographic location of the address. The first character of the FSA represents the 'postal district', which splits the country into major geographic regions.
 The first letter of the FSA uniquely identifies the province or territory, except in a few cases to be explained later. Each province or territory has one or more identifying letters, as follows:
 
-    A 	  Newfoundland and Labrador
+    A 	    Newfoundland and Labrador
     B 		Nova Scotia
     C 		Prince Edward Island
     E 		New Brunswick
